@@ -1,20 +1,18 @@
 # Multilingual Mock Interview Platform
 
-## ML Service — Question Bank + FastAPI
+## ML Services
 
-### What this does
-- 124 interview questions (HR, Behavioral, Technical)
-- Translates to 10 Indian languages
-- Serves questions via REST API
+### Stage 1 - Question Bank + FastAPI
+- 124 questions (HR, Behavioral, Technical)
+- 10 Indian languages
+- REST API via FastAPI + ngrok
 
-### API Endpoints
-- GET /questions?category=HR&language=Hindi
-- GET /questions/random?language=Tamil
-- GET /stats
-- GET /categories
+### Stage 2 - Whisper STT
+- Whisper Large-v3
+- Supports all Indian languages
+- Auto language detection
 
-### Tech Stack
-- Python + FastAPI
-- Groq API (Llama 3.3)
-- deep-translator
-- ngrok
+### Folder Structure
+- questions.json
+- requirements.txt
+- stt/stt_service.py
