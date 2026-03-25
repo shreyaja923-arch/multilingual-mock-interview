@@ -399,7 +399,7 @@
     "difficulty": "Easy",
     "question": "Why do you want to work for our company?",
     "tags": [
-      "company knowledge",
+      "company-fit",
       "motivation"
     ],
     "id": 42
@@ -410,7 +410,7 @@
     "question": "What are your strengths and weaknesses?",
     "tags": [
       "self-assessment",
-      "personal growth"
+      "personal-growth"
     ],
     "id": 43
   },
@@ -419,7 +419,7 @@
     "difficulty": "Easy",
     "question": "Where do you see yourself in five years?",
     "tags": [
-      "career goals",
+      "career-planning",
       "ambition"
     ],
     "id": 44
@@ -429,8 +429,8 @@
     "difficulty": "Easy",
     "question": "Why are you leaving your current job?",
     "tags": [
-      "career transition",
-      "job satisfaction"
+      "job-switch",
+      "career-transition"
     ],
     "id": 45
   },
@@ -450,27 +450,27 @@
     "question": "How would you handle a difficult team member?",
     "tags": [
       "teamwork",
-      "conflict resolution"
+      "conflict-resolution"
     ],
     "id": 47
   },
   {
     "category": "HR",
     "difficulty": "Easy",
-    "question": "Can you describe your work style?",
+    "question": "Can you describe a time when you overcame a challenge?",
     "tags": [
-      "productivity",
-      "time management"
+      "problem-solving",
+      "adaptability"
     ],
     "id": 48
   },
   {
     "category": "HR",
     "difficulty": "Easy",
-    "question": "How do you handle stress and pressure?",
+    "question": "Why do you think you are a good fit for this role?",
     "tags": [
-      "stress management",
-      "wellness"
+      "role-fit",
+      "confidence"
     ],
     "id": 49
   },
@@ -487,107 +487,107 @@
   {
     "category": "HR",
     "difficulty": "Medium",
-    "question": "What are your long-term career goals, and how does this role fit into your overall career aspirations?",
+    "question": "What are your strengths and weaknesses and how do you think they will impact your performance in this role?",
     "tags": [
-      "career goals",
-      "aspirations"
+      "self-assessment",
+      "career-development"
     ],
     "id": 51
   },
   {
     "category": "HR",
     "difficulty": "Medium",
-    "question": "How do you handle constructive criticism or negative feedback from your manager or peers?",
+    "question": "Can you tell me about a time when you had to work with a difficult team member or manager?",
     "tags": [
-      "feedback",
-      "criticism"
+      "teamwork",
+      "conflict-resolution"
     ],
     "id": 52
   },
   {
     "category": "HR",
     "difficulty": "Medium",
-    "question": "Can you describe a situation where you had to work with a difficult team member or manager, and how you resolved the issue?",
+    "question": "How do you handle stress and pressure in the workplace?",
     "tags": [
-      "teamwork",
-      "conflict resolution"
+      "stress-management",
+      "productivity"
     ],
     "id": 53
   },
   {
     "category": "HR",
     "difficulty": "Medium",
-    "question": "What are your expectations from your manager, and how do you think they can support you in your role?",
+    "question": "Why do you want to work for our company and what do you know about our culture?",
     "tags": [
-      "expectations",
-      "manager"
+      "company-research",
+      "culture-fit"
     ],
     "id": 54
   },
   {
     "category": "HR",
     "difficulty": "Medium",
-    "question": "How do you prioritize your tasks and manage your time when faced with multiple deadlines and projects?",
+    "question": "What are your long-term career goals and how does this role fit into your overall career aspirations?",
     "tags": [
-      "time management",
-      "prioritization"
+      "career-planning",
+      "ambition"
     ],
     "id": 55
   },
   {
     "category": "HR",
     "difficulty": "Medium",
-    "question": "Can you tell me about a project or initiative you led, and the results you achieved?",
+    "question": "Can you describe a situation where you had to adapt to a new process or technology?",
     "tags": [
-      "leadership",
-      "initiative"
+      "adaptability",
+      "technical-skills"
     ],
     "id": 56
   },
   {
     "category": "HR",
     "difficulty": "Medium",
-    "question": "How do you handle stress and pressure in the workplace, and what strategies do you use to manage your workload?",
+    "question": "How do you prioritize your tasks and manage your time effectively?",
     "tags": [
-      "stress management",
-      "workload"
+      "time-management",
+      "productivity"
     ],
     "id": 57
   },
   {
     "category": "HR",
     "difficulty": "Medium",
-    "question": "What do you know about our company culture, and how do you think you can contribute to it?",
+    "question": "What do you think are the most important qualities and skills required for success in this role?",
     "tags": [
-      "company culture",
-      "contribution"
+      "self-awareness",
+      "job-requirements"
     ],
     "id": 58
   },
   {
     "category": "HR",
     "difficulty": "Medium",
-    "question": "Can you describe a situation where you had to adapt to a change in the workplace, such as a new process or technology?",
+    "question": "Can you tell me about a project or initiative you led and the results you achieved?",
     "tags": [
-      "adaptability",
-      "change management"
+      "leadership",
+      "achievement"
     ],
     "id": 59
   },
   {
     "category": "HR",
     "difficulty": "Medium",
-    "question": "How do you measure your own success, and what metrics or benchmarks do you use to evaluate your performance?",
+    "question": "How do you handle feedback or constructive criticism and what do you do to implement changes?",
     "tags": [
-      "success metrics",
-      "performance evaluation"
+      "feedback",
+      "personal-growth"
     ],
     "id": 60
   },
   {
     "category": "HR",
     "difficulty": "Hard",
-    "question": "How do you handle a situation where your team member is not pulling their weight and it's affecting the overall project deadline?",
+    "question": "What would you do if your team member is not pulling their weight and it's affecting the project timeline?",
     "tags": [
       "Team Management",
       "Conflict Resolution"
@@ -597,59 +597,59 @@
   {
     "category": "HR",
     "difficulty": "Hard",
-    "question": "What strategies would you use to motivate a team that's facing a high level of burnout and low morale?",
+    "question": "How do you handle a situation where you have to choose between meeting a tight deadline and ensuring the quality of your work?",
     "tags": [
-      "Motivation",
-      "Leadership"
+      "Time Management",
+      "Quality Assurance"
     ],
     "id": 62
   },
   {
     "category": "HR",
     "difficulty": "Hard",
-    "question": "How would you handle a situation where an employee is consistently late or absent, and what steps would you take to address the issue?",
+    "question": "Can you describe a situation where you had to adapt to a significant change in the organization, such as a restructuring or a new policy implementation?",
     "tags": [
-      "Disciplinary Action",
-      "Attendance"
+      "Adaptability",
+      "Change Management"
     ],
     "id": 63
   },
   {
     "category": "HR",
     "difficulty": "Hard",
-    "question": "Can you describe a time when you had to make a tough decision that involved balancing the needs of the organization with the needs of your team members?",
+    "question": "How do you prioritize your tasks and manage your workload when faced with multiple projects and competing priorities?",
     "tags": [
-      "Decision Making",
-      "Prioritization"
+      "Prioritization",
+      "Workload Management"
     ],
     "id": 64
   },
   {
     "category": "HR",
     "difficulty": "Hard",
-    "question": "How do you foster a culture of innovation and creativity within your team, and what steps do you take to encourage employees to think outside the box?",
+    "question": "What strategies would you use to motivate and engage a team member who is struggling with their job responsibilities?",
     "tags": [
-      "Innovation",
-      "Creativity"
+      "Motivation",
+      "Employee Engagement"
     ],
     "id": 65
   },
   {
     "category": "HR",
     "difficulty": "Hard",
-    "question": "What is your approach to providing feedback to employees, and how do you ensure that feedback is constructive and actionable?",
+    "question": "How do you handle a situation where you disagree with your manager's decision or feedback?",
     "tags": [
-      "Feedback",
-      "Performance Management"
+      "Communication",
+      "Conflict Resolution"
     ],
     "id": 66
   },
   {
     "category": "HR",
     "difficulty": "Hard",
-    "question": "How do you build and maintain relationships with stakeholders, including employees, management, and external partners?",
+    "question": "Can you describe a situation where you had to provide feedback to a team member or colleague, and how you approached the conversation?",
     "tags": [
-      "Stakeholder Management",
+      "Feedback",
       "Communication"
     ],
     "id": 67
@@ -657,30 +657,30 @@
   {
     "category": "HR",
     "difficulty": "Hard",
-    "question": "Can you describe a situation where you had to navigate a complex organizational change, such as a merger or restructuring, and how you supported your team through the transition?",
+    "question": "How do you measure the success of a project or initiative, and what metrics or KPIs would you use to evaluate its effectiveness?",
     "tags": [
-      "Change Management",
-      "Organizational Development"
+      "Project Management",
+      "Metrics"
     ],
     "id": 68
   },
   {
     "category": "Behavioral",
     "difficulty": "Easy",
-    "question": "Can you tell me about a time when you had to work with a team to achieve a goal?",
+    "question": "Can you tell me about a time when you had to work with a difficult team member?",
     "tags": [
       "Teamwork",
-      "Collaboration"
+      "Communication"
     ],
     "id": 69
   },
   {
     "category": "Behavioral",
     "difficulty": "Easy",
-    "question": "How do you handle a situation where you disagree with your manager's decision?",
+    "question": "How do you handle a situation where you are given a tight deadline to complete a project?",
     "tags": [
-      "Communication",
-      "Conflict Resolution"
+      "Time Management",
+      "Prioritization"
     ],
     "id": 70
   },
@@ -697,7 +697,7 @@
   {
     "category": "Behavioral",
     "difficulty": "Easy",
-    "question": "Tell me about a project you worked on that you're particularly proud of",
+    "question": "Tell me about a project you worked on that you are particularly proud of",
     "tags": [
       "Achievement",
       "Motivation"
@@ -707,47 +707,47 @@
   {
     "category": "Behavioral",
     "difficulty": "Easy",
-    "question": "Can you give an example of a time when you received feedback and how you used it to improve?",
+    "question": "How do you handle constructive criticism or feedback at work?",
     "tags": [
-      "Feedback",
-      "Growth"
+      "Self Awareness",
+      "Improvement"
     ],
     "id": 73
   },
   {
     "category": "Behavioral",
     "difficulty": "Easy",
-    "question": "How do you prioritize your tasks and manage your time when faced with multiple deadlines?",
+    "question": "Can you describe a situation where you had to communicate complex information to a non-technical team member?",
     "tags": [
-      "Time Management",
-      "Productivity"
+      "Communication",
+      "Simplification"
     ],
     "id": 74
   },
   {
     "category": "Behavioral",
     "difficulty": "Easy",
-    "question": "Describe a situation where you had to communicate complex information to a non-technical team member",
+    "question": "Tell me about a time when you went above and beyond your job responsibilities to help the team or organization",
     "tags": [
-      "Communication",
-      "Simplification"
+      "Initiative",
+      "Teamwork"
     ],
     "id": 75
   },
   {
     "category": "Behavioral",
     "difficulty": "Easy",
-    "question": "Tell me about a time when you went above and beyond your normal responsibilities to help the team",
+    "question": "Describe a situation where you had to make a difficult decision at work, and how you approached it",
     "tags": [
-      "Initiative",
-      "Team Player"
+      "Decision Making",
+      "Problem Solving"
     ],
     "id": 76
   },
   {
     "category": "Behavioral",
     "difficulty": "Medium",
-    "question": "Describe a situation where you had to work with a team member who had a different work style than yours",
+    "question": "Can you describe a situation where you had to work with a team member who had a different work style than yours?",
     "tags": [
       "Teamwork",
       "Adaptability"
@@ -757,19 +757,19 @@
   {
     "category": "Behavioral",
     "difficulty": "Medium",
-    "question": "Tell me about a project you led and the challenges you faced in terms of resource allocation",
+    "question": "How do you handle a project that is not going as planned, and what steps would you take to get it back on track?",
     "tags": [
-      "Leadership",
-      "Resource Management"
+      "Problem-solving",
+      "Project Management"
     ],
     "id": 78
   },
   {
     "category": "Behavioral",
     "difficulty": "Medium",
-    "question": "Can you give an example of a time when you received feedback on your performance and how you used it to improve",
+    "question": "Tell me about a time when you received feedback or criticism on your work, and how you used it to improve?",
     "tags": [
-      "Self Improvement",
+      "Self-improvement",
       "Feedback"
     ],
     "id": 79
@@ -777,17 +777,17 @@
   {
     "category": "Behavioral",
     "difficulty": "Medium",
-    "question": "Describe a situation where you had to communicate complex technical information to a non-technical audience",
+    "question": "Describe a situation where you had to communicate complex information to a non-technical audience, and how you approached it?",
     "tags": [
       "Communication",
-      "Technical Skills"
+      "Simplification"
     ],
     "id": 80
   },
   {
     "category": "Behavioral",
     "difficulty": "Medium",
-    "question": "Tell me about a time when you had to prioritize multiple tasks with tight deadlines",
+    "question": "Can you give an example of a time when you had to prioritize multiple tasks or projects with competing deadlines?",
     "tags": [
       "Time Management",
       "Prioritization"
@@ -797,27 +797,27 @@
   {
     "category": "Behavioral",
     "difficulty": "Medium",
-    "question": "Can you describe a situation where you identified a problem and came up with a creative solution",
+    "question": "How do you build relationships with colleagues and stakeholders in a new team or organization?",
     "tags": [
-      "Problem Solving",
-      "Creativity"
+      "Networking",
+      "Relationship-building"
     ],
     "id": 82
   },
   {
     "category": "Behavioral",
     "difficulty": "Medium",
-    "question": "Describe a situation where you had to handle a difficult customer or client",
+    "question": "Tell me about a project or initiative you led or were a part of, and what was your role in its success?",
     "tags": [
-      "Customer Service",
-      "Conflict Resolution"
+      "Leadership",
+      "Initiative"
     ],
     "id": 83
   },
   {
     "category": "Behavioral",
     "difficulty": "Medium",
-    "question": "Tell me about a time when you had to adapt to a new process or system at work",
+    "question": "Describe a situation where you had to adapt to a change in process or technology, and how you handled the transition?",
     "tags": [
       "Adaptability",
       "Change Management"
@@ -827,100 +827,100 @@
   {
     "category": "Behavioral",
     "difficulty": "Medium",
-    "question": "Can you give an example of a time when you demonstrated initiative and took on additional responsibilities",
+    "question": "Can you give an example of a time when you identified a problem or opportunity for improvement, and what you did to address it?",
     "tags": [
-      "Initiative",
-      "Leadership"
+      "Problem-solving",
+      "Proactivity"
     ],
     "id": 85
   },
   {
     "category": "Behavioral",
     "difficulty": "Medium",
-    "question": "Describe a situation where you had to work with a cross-functional team to achieve a common goal",
+    "question": "Tell me about a time when you had to work with a cross-functional team to achieve a common goal, and what was your contribution to the team's success?",
     "tags": [
-      "Teamwork",
-      "Collaboration"
+      "Collaboration",
+      "Teamwork"
     ],
     "id": 86
   },
   {
     "category": "Behavioral",
     "difficulty": "Hard",
-    "question": "Describe a situation where you had to handle a difficult team member who was not contributing to the project, and how you managed to resolve the issue",
+    "question": "Describe a situation where you had to work with a team member who had a completely different work style than yours, and how you adapted to it",
     "tags": [
-      "Team Management",
-      "Conflict Resolution"
+      "teamwork",
+      "adaptability"
     ],
     "id": 87
   },
   {
     "category": "Behavioral",
     "difficulty": "Hard",
-    "question": "Tell me about a time when you had to make a tough decision with limited information, and what was the outcome of that decision",
+    "question": "Tell me about a project where you had to handle a difficult stakeholder, and how you managed to build a positive relationship with them",
     "tags": [
-      "Decision Making",
-      "Problem Solving"
+      "stakeholder management",
+      "communication"
     ],
     "id": 88
   },
   {
     "category": "Behavioral",
     "difficulty": "Hard",
-    "question": "Can you give an example of a project where you had to adapt to changing requirements and priorities, and how you handled the transition",
+    "question": "Can you give an example of a time when you had to prioritize multiple tasks with tight deadlines, and how you ensured that all of them were completed on time",
     "tags": [
-      "Adaptability",
-      "Prioritization"
+      "time management",
+      "prioritization"
     ],
     "id": 89
   },
   {
     "category": "Behavioral",
     "difficulty": "Hard",
-    "question": "Describe a situation where you received feedback or criticism on your work, and how you used that feedback to improve your performance",
+    "question": "Describe a situation where you received feedback that was not positive, and how you used it to improve your performance",
     "tags": [
-      "Self Improvement",
-      "Feedback"
+      "feedback",
+      "self-improvement"
     ],
     "id": 90
   },
   {
     "category": "Behavioral",
     "difficulty": "Hard",
-    "question": "Tell me about a time when you had to communicate complex technical information to a non-technical audience, and how you approached the situation",
+    "question": "Tell me about a project where you had to make a difficult decision with limited information, and how you approached it",
     "tags": [
-      "Communication",
-      "Technical Skills"
+      "decision making",
+      "problem solving"
     ],
     "id": 91
   },
   {
     "category": "Behavioral",
     "difficulty": "Hard",
-    "question": "Can you describe a situation where you had to work with a cross-functional team to achieve a common goal, and what was your role in the team",
+    "question": "Can you describe a situation where you had to lead a team or a project, and how you handled the responsibilities and challenges that came with it",
     "tags": [
-      "Teamwork",
-      "Collaboration"
+      "leadership",
+      "project management"
     ],
     "id": 92
   },
   {
     "category": "Behavioral",
     "difficulty": "Hard",
-    "question": "Describe a situation where you had to manage multiple projects or tasks simultaneously, and how you prioritized your work to meet the deadlines",
+    "question": "Describe a situation where you had to communicate complex technical information to a non-technical audience, and how you approached it",
     "tags": [
-      "Time Management",
-      "Prioritization"
+      "communication",
+      "technical skills"
     ],
     "id": 93
   },
   {
     "category": "Behavioral",
     "difficulty": "Hard",
-    "question": "Tell me about a time when you identified a process or system that could be improved, and what steps you took to implement the changes",
+    "question": "Tell me about a time when you had to handle a significant change or setback in a project, and how you adapted to it",
     "tags": [
-      "Process Improvement",
-      "Innovation"
+      "change management",
+      "resilience"
     ],
     "id": 94
   },
@@ -937,40 +937,40 @@
   {
     "category": "Technical",
     "difficulty": "Easy",
-    "question": "How do you handle errors in a Python program?",
+    "question": "How do you optimize the performance of a SQL query?",
     "tags": [
-      "Python",
-      "Error Handling"
+      "SQL",
+      "Database"
     ],
     "id": 96
   },
   {
     "category": "Technical",
     "difficulty": "Easy",
-    "question": "What is the purpose of the finally block in a try-catch statement?",
+    "question": "What is the purpose of using try-catch blocks in programming?",
     "tags": [
-      "Java",
-      "Exception Handling"
+      "Error Handling",
+      "Programming"
     ],
     "id": 97
   },
   {
     "category": "Technical",
     "difficulty": "Easy",
-    "question": "What are the advantages of using a NoSQL database over a relational database?",
+    "question": "What are the advantages of using Agile methodology in software development?",
     "tags": [
-      "NoSQL",
-      "Database"
+      "Agile",
+      "Software Development"
     ],
     "id": 98
   },
   {
     "category": "Technical",
     "difficulty": "Easy",
-    "question": "How does the HTTP protocol work?",
+    "question": "How do you handle errors in a Python program?",
     "tags": [
-      "HTTP",
-      "Networking"
+      "Python",
+      "Error Handling"
     ],
     "id": 99
   },
@@ -987,7 +987,7 @@
   {
     "category": "Technical",
     "difficulty": "Easy",
-    "question": "What is the purpose of the git stash command?",
+    "question": "What is the purpose of using a version control system like Git?",
     "tags": [
       "Git",
       "Version Control"
@@ -997,109 +997,109 @@
   {
     "category": "Technical",
     "difficulty": "Easy",
-    "question": "How do you optimize the performance of a slow SQL query?",
+    "question": "How do you improve the security of a web application?",
     "tags": [
-      "SQL",
-      "Database Optimization"
+      "Web Security",
+      "Cybersecurity"
     ],
     "id": 102
   },
   {
     "category": "Technical",
     "difficulty": "Easy",
-    "question": "What is the difference between a monolithic architecture and a microservices architecture?",
+    "question": "What is the difference between a left join and an inner join in SQL?",
     "tags": [
-      "Software Architecture",
-      "Microservices"
+      "SQL",
+      "Database"
     ],
     "id": 103
   },
   {
     "category": "Technical",
     "difficulty": "Easy",
-    "question": "What are the benefits of using a cloud-based infrastructure over an on-premise infrastructure?",
+    "question": "How do you implement a sorting algorithm in a programming language?",
     "tags": [
-      "Cloud Computing",
-      "Infrastructure"
+      "Algorithms",
+      "Data Structures"
     ],
     "id": 104
   },
   {
     "category": "Technical",
     "difficulty": "Medium",
-    "question": "How do you handle errors and exceptions in a Java-based application?",
+    "question": "How do you optimize the performance of a slow MySQL query?",
     "tags": [
-      "Java",
-      "Error Handling"
+      "MySQL",
+      "Database Optimization"
     ],
     "id": 105
   },
   {
     "category": "Technical",
     "difficulty": "Medium",
-    "question": "Explain the concept of polymorphism in object-oriented programming",
+    "question": "What is the difference between monolithic architecture and microservices architecture?",
     "tags": [
-      "OOP",
-      "Polymorphism"
+      "Software Architecture",
+      "Design Patterns"
     ],
     "id": 106
   },
   {
     "category": "Technical",
     "difficulty": "Medium",
-    "question": "What is the difference between monolithic architecture and microservices architecture?",
+    "question": "How do you handle errors and exceptions in a Java-based web application?",
     "tags": [
-      "Architecture",
-      "Microservices"
+      "Java",
+      "Error Handling"
     ],
     "id": 107
   },
   {
     "category": "Technical",
     "difficulty": "Medium",
-    "question": "How do you optimize the performance of a slow-running SQL query?",
+    "question": "Can you explain the concept of dependency injection in Spring framework?",
     "tags": [
-      "SQL",
-      "Performance Optimization"
+      "Spring",
+      "Dependency Injection"
     ],
     "id": 108
   },
   {
     "category": "Technical",
     "difficulty": "Medium",
-    "question": "Can you explain the concept of dependency injection in a .NET application?",
+    "question": "How do you implement authentication and authorization in a RESTful API using Node.js?",
     "tags": [
-      "Dependency Injection",
-      ".NET"
+      "Node.js",
+      "Authentication"
     ],
     "id": 109
   },
   {
     "category": "Technical",
     "difficulty": "Medium",
-    "question": "How do you implement authentication and authorization in a web application using Spring Security?",
+    "question": "What is the difference between a hash table and a binary search tree?",
     "tags": [
-      "Spring Security",
-      "Authentication"
+      "Data Structures",
+      "Algorithms"
     ],
     "id": 110
   },
   {
     "category": "Technical",
     "difficulty": "Medium",
-    "question": "What is the difference between a left join and an inner join in SQL?",
+    "question": "How do you troubleshoot a memory leak issue in a .NET-based application?",
     "tags": [
-      "SQL",
-      "Joins"
+      ".NET",
+      "Memory Management"
     ],
     "id": 111
   },
   {
     "category": "Technical",
     "difficulty": "Medium",
-    "question": "Explain the concept of asynchronous programming in JavaScript",
+    "question": "Can you explain the concept of asynchronous programming in Python?",
     "tags": [
-      "JavaScript",
+      "Python",
       "Asynchronous Programming"
     ],
     "id": 112
@@ -1107,120 +1107,120 @@
   {
     "category": "Technical",
     "difficulty": "Medium",
-    "question": "How do you handle cross-browser compatibility issues in a web application?",
+    "question": "How do you design a database schema for a complex e-commerce application?",
     "tags": [
-      "Cross-Browser Compatibility",
-      "Web Development"
+      "Database Design",
+      "E-commerce"
     ],
     "id": 113
   },
   {
     "category": "Technical",
     "difficulty": "Medium",
-    "question": "Can you explain the concept of test-driven development (TDD) and its benefits?",
+    "question": "What is the difference between a left join and a right join in SQL?",
     "tags": [
-      "TDD",
-      "Software Testing"
+      "SQL",
+      "Joins"
     ],
     "id": 114
   },
   {
     "category": "Technical",
     "difficulty": "Hard",
-    "question": "How do you optimize the performance of a slow-running SQL query in a large database?",
+    "question": "How would you optimize the performance of a slow-running database query in a large-scale e-commerce application?",
     "tags": [
-      "SQL",
-      "Database Optimization"
+      "Database",
+      "Query Optimization"
     ],
     "id": 115
   },
   {
     "category": "Technical",
     "difficulty": "Hard",
-    "question": "Explain the concept of Decorator design pattern and provide an example implementation in Java",
+    "question": "Explain the trade-offs between monolithic architecture and microservices architecture in a cloud-based system",
     "tags": [
-      "Java",
-      "Design Patterns"
+      "Architecture",
+      "Cloud Computing"
     ],
     "id": 116
   },
   {
     "category": "Technical",
     "difficulty": "Hard",
-    "question": "What are the differences between Monolithic architecture and Microservices architecture?",
+    "question": "Write a Java program to implement a thread-safe singleton class using double-checked locking mechanism",
     "tags": [
-      "Software Architecture",
-      "Microservices"
+      "Java",
+      "Multithreading"
     ],
     "id": 117
   },
   {
     "category": "Technical",
     "difficulty": "Hard",
-    "question": "Write a Python program to find the maximum subarray sum in a given one-dimensional array of numbers",
+    "question": "Design a scalable and fault-tolerant system for processing large volumes of log data in real-time",
     "tags": [
-      "Python",
-      "Algorithm"
+      "System Design",
+      "Big Data"
     ],
     "id": 118
   },
   {
     "category": "Technical",
     "difficulty": "Hard",
-    "question": "Describe the process of troubleshooting a memory leak issue in a Java-based web application",
+    "question": "How would you handle errors and exceptions in a distributed system using RESTful APIs and Java?",
     "tags": [
-      "Java",
-      "Troubleshooting"
+      "Error Handling",
+      "RESTful APIs"
     ],
     "id": 119
   },
   {
     "category": "Technical",
     "difficulty": "Hard",
-    "question": "Explain the concept of Deadlock in Operating Systems and provide an example scenario",
+    "question": "Explain the concept of dependency injection in Spring framework and its benefits",
     "tags": [
-      "Operating Systems",
-      "Concurrency"
+      "Spring",
+      "Dependency Injection"
     ],
     "id": 120
   },
   {
     "category": "Technical",
     "difficulty": "Hard",
-    "question": "Design a high-level architecture for a scalable e-commerce application using Cloud-based services",
+    "question": "Implement a solution using Python and scikit-learn to classify text data into positive and negative sentiment",
     "tags": [
-      "Cloud Computing",
-      "Scalability"
+      "Machine Learning",
+      "Natural Language Processing"
     ],
     "id": 121
   },
   {
     "category": "Technical",
     "difficulty": "Hard",
-    "question": "Implement a solution to find the minimum window substring in a given string that contains all characters of another string",
+    "question": "Design a high-performance caching system using Redis and Java to improve application response times",
     "tags": [
-      "Algorithm",
-      "String Manipulation"
+      "Caching",
+      "Redis"
     ],
     "id": 122
   },
   {
     "category": "Technical",
     "difficulty": "Hard",
-    "question": "Explain the differences between RESTful API and GraphQL API and provide use cases for each",
+    "question": "How would you secure a web application against common vulnerabilities such as SQL injection and cross-site scripting (XSS) using OWASP guidelines?",
     "tags": [
-      "API Design",
-      "RESTful API"
+      "Web Security",
+      "OWASP"
     ],
     "id": 123
   },
   {
     "category": "Technical",
     "difficulty": "Hard",
-    "question": "Write a C++ program to implement a Binary Search Tree with insertion, deletion, and traversal operations",
+    "question": "Explain the differences between various types of NoSQL databases, such as key-value stores, document-oriented databases, and graph databases",
     "tags": [
-      "C++",
-      "Data Structures"
+      "NoSQL",
+      "Database"
     ],
     "id": 124
   }
