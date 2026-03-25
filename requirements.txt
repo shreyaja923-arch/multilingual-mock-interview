@@ -5,3 +5,8 @@ deep-translator
 groq
 pyngrok
 nest-asyncio
+openai-whisper
+torch
+torchaudio
+ffmpeg-python
+gtts
